@@ -47,4 +47,4 @@ To add your own commands, just add a new `@bot.slash_command(...)` in `main.py` 
 
 ## License
 
-MIT
+https://devcoder.is-a.dev
