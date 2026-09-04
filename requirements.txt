@@ -1,0 +1,2 @@
+py-cord>=2.6.0
+python-dotenv
