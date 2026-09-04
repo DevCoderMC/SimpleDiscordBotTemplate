@@ -47,4 +47,8 @@ To add your own commands, just add a new `@bot.slash_command(...)` in `main.py` 
 
 ## License
 
+DevCoder-License
 https://devcoder.is-a.dev
+ - Modifying the file is allowed in this case.
+ - Redistribution is also allowed in this case.
+ - The sale or monetization of the content is strictly prohibited.
